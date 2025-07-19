@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nayana MP (@Nayanamp123)</h1>
 <p align="center"> 👩‍💻Passionate Full-Stack Developer | 👩‍💻 Constant Learner | 🤝 Collaborator</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F70000&width=800&lines=Hey+There!+I'm+Nayana+MP+👋;MERN+Stack+Developer+💻;Passionate+about+Building+Web+Apps;Learning+DevOps+%26+System+Design+🚀" alt="Typing SVG" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" />
 
-<p align="center">
-  <img src="https://github.com/kroitor/asciinema-player/blob/master/images/demo.gif?raw=true" alt="Coding" width="600" />
-</p>
 
 ---
 
