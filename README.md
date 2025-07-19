@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayana MP (@Nayanamp123)</h1>
-<p align="center">🚀 Passionate Full-Stack Developer | 👩‍💻 Constant Learner | 🤝 Collaborator</p>
+<p align="center"> 👩‍💻Passionate Full-Stack Developer | 👩‍💻 Constant Learner | 🤝 Collaborator</p>
 
 ---
 
