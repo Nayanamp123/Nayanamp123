@@ -43,7 +43,7 @@
 ### 🚀 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nayanamp123?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://Nayanamp123?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
