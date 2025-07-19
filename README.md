@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nayana MP (@Nayanamp123)</h1>
 <p align="center"> 👩‍💻Passionate Full-Stack Developer | 👩‍💻 Constant Learner | 🤝 Collaborator</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,postman" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </p>
-
 
 
 ---
