@@ -2,8 +2,9 @@
 <p align="center"> 👩‍💻Passionate Full-Stack Developer | 👩‍💻 Constant Learner | 🤝 Collaborator</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9pJ9c/giphy.gif" width="600" />
 </p>
+
 
 
 ---
